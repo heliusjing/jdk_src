@@ -1,0 +1,9 @@
+# Project exclude paths
+/01-collections/target/
+/02-concurrency/target/
+/03-jvmDemo/target/
+/04-Algorithms/target/
+/05-base-api/target/
+/06-Synchronized/target/
+/07-io/target/
+/08-design-pattern/target/
