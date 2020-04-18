@@ -16,6 +16,8 @@
         <module>06-Synchronized</module>
         <module>07-io</module>
         <module>08-design-pattern</module>
+        <module>09-jvm</module>
+        <module>10-HuToolTest</module>
     </modules>
 <!-- 统一管理版本号   -->
     <properties>
