@@ -1,0 +1,8 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(×û¼…8Äúôî”.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üÇ³º
+X	java:S125"<This block of commented-out lines of code should be removed.(ÃŞÆ†8Äúôî”.
+_
+java:S1854"=Remove this useless assignment to local variable "localDate".(î“«÷úÿÿÿÿ8¢Õ‰ï”.
+P
+java:S1481".Remove this unused "localDate" local variable.(î“«÷úÿÿÿÿ8¢Õ‰ï”.

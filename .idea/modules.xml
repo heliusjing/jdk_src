@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-collections/01-collections.iml" filepath="$PROJECT_DIR$/01-collections/01-collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-concurrency/02-concurrency.iml" filepath="$PROJECT_DIR$/02-concurrency/02-concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-jvmDemo/03-jvmDemo.iml" filepath="$PROJECT_DIR$/03-jvmDemo/03-jvmDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Algorithms/04-Algorithms.iml" filepath="$PROJECT_DIR$/04-Algorithms/04-Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-base-api/05-base-api.iml" filepath="$PROJECT_DIR$/05-base-api/05-base-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Synchronized/06-Synchronized.iml" filepath="$PROJECT_DIR$/06-Synchronized/06-Synchronized.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-io/07-io.iml" filepath="$PROJECT_DIR$/07-io/07-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-design-pattern/08-design-pattern.iml" filepath="$PROJECT_DIR$/08-design-pattern/08-design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-jvm/09-jvm.iml" filepath="$PROJECT_DIR$/09-jvm/09-jvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-HuToolTest/10-HuToolTest.iml" filepath="$PROJECT_DIR$/10-HuToolTest/10-HuToolTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk_src.iml" filepath="$PROJECT_DIR$/jdk_src.iml" />
+    </modules>
+  </component>
+</project>

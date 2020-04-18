@@ -1,0 +1,10 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÕŽÇÕûÿÿÿÿ8‡åˆó”.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(˜‹é•ÿÿÿÿÿ8‡åˆó”.
+v
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "s".(ž¢‘·8 û™ó”.
+]	java:S125"<This block of commented-out lines of code should be removed.(œøÅžûÿÿÿÿ8Øž›ó”.
+M
+java:S1068"+Remove this unused "content" private field.(ÃÇÿôøÿÿÿÿ8 û™ó”.
+D
+java:S1604"(Make this anonymous inner class a lambda(ô§ê8‡åˆó”.

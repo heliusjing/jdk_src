@@ -6,4 +6,8 @@
 /05-base-api/target/
 /06-Synchronized/target/
 /07-io/target/
-/08-design-pattern/target/
+/08-design-pattern/target
+/09-jvm/target/
+/10-HuToolTest/target/
+#idea
+*.iml

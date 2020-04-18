@@ -1,0 +1,10 @@
+
+T
+java:S1481"2Remove this unused "localDateTime" local variable.(žë€‰øÿÿÿÿ8‹ýçð”.
+c
+java:S1854"ARemove this useless assignment to local variable "localDateTime".(žë€‰øÿÿÿÿ8‹ýçð”.
+D
+java:S1481"(Remove this unused "dt1" local variable.(¼äÑp8ýµãð”.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üÇ³º
+S
+java:S1854"7Remove this useless assignment to local variable "dt1".(¼äÑp8‡€ãð”.

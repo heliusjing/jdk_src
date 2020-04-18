@@ -1,0 +1,6 @@
+
+c
+java:S1854"ARemove this useless assignment to local variable "zonedDateTime".(Şÿ„òøÿÿÿÿ8ä”ï”.
+T
+java:S1481"2Remove this unused "zonedDateTime" local variable.(Şÿ„òøÿÿÿÿ8ä”ï”.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üÇ³º

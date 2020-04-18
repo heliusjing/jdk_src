@@ -1,0 +1,7 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(º²ëöøÿÿÿÿ8µ£¨Ø”.
+E
+java:S1481")Remove this unused "with" local variable.(ƒŸa8£ñÓØ”.
+T
+java:S1854"8Remove this useless assignment to local variable "with".(ƒŸa8£ñÓØ”.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üÇ³º
