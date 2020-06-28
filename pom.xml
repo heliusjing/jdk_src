@@ -18,6 +18,8 @@
         <module>08-design-pattern</module>
         <module>09-jvm</module>
         <module>10-HuToolTest</module>
+        <module>11-htmlunit</module>
+        <module>entrypt-decrypt</module>
     </modules>
 <!-- 统一管理版本号   -->
     <properties>
@@ -36,5 +38,7 @@
 
         </dependencies>
     </dependencyManagement>
+
+
 
 </project>
