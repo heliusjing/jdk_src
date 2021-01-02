@@ -20,10 +20,12 @@
         <module>10-HuToolTest</module>
         <module>11-htmlunit</module>
         <module>entrypt-decrypt</module>
+        <module>12-websocket</module>
     </modules>
 <!-- 统一管理版本号   -->
     <properties>
         <lombok.version>1.18.10</lombok.version>
+        <junit.version>4.11</junit.version>
     </properties>
 
     <dependencyManagement>
@@ -35,10 +37,27 @@
                 <version>${lombok.version}</version>
                 <scope>provided</scope>
             </dependency>
-
+            <dependency>
+                <groupId>junit</groupId>
+                <artifactId>junit</artifactId>
+                <version>${junit.version}</version>
+                <scope>test</scope>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
+        <dependencies>
+            <dependency>
+                <groupId>org.projectlombok</groupId>
+                <artifactId>lombok</artifactId>
+                <scope>provided</scope>
+            </dependency>
+            <dependency>
+                <groupId>junit</groupId>
+                <artifactId>junit</artifactId>
+                <scope>test</scope>
+            </dependency>
+        </dependencies>
 
 
 </project>
