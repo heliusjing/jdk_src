@@ -18,11 +18,12 @@ public class InsertSort {
     }
 
     public static void insertSort(int[] arr) {
-        //从1开始，即默认数组第一个元素为有序区，剩下的元素为无序区
+        //从1开始，即默认数组第一个元素（索引为0）为有序区，剩下的元素为无序区
         for (int i = 1; i < arr.length; i++) {
             //每次都取无序区的第一个元素，即j=i开始，往前面，（前面就是有序区了）,通过依次冒泡找到位置。
             //这里精华的地方，刚好取的无序区第一个元素，那个位置空出来，可以用来交换，
             for (int j = i; j > 0; j--) {
+                //注意这里是倒序遍历，即i之前的元素是有序区，
                 if (arr[j-1] > arr[j]) {
                     //交换位置
                     int temp = arr[j];

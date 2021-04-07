@@ -8,6 +8,7 @@ import java.util.Arrays;
  * 冒泡排序是稳定的算法，它满足稳定算法的定义。
  * 算法稳定性 -- 假设在数列中存在a[i]=a[j]，若在排序之前，a[i]在a[j]前面；并且排序之后，a[i]仍然在a[j]前面。则这个排序算法是稳定的！
  * 冒泡排序：可以优化
+ *
  * @Author jcf
  * @Create 2020-02-11-21:13
  */
@@ -31,7 +32,7 @@ public class BubbleSort {
      */
     private static int[] bubbleSort(int[] arr) {
 
-        for (int j = arr.length - 1; j>0; j--) {
+        for (int j = arr.length - 1; j>=0; j--) {
 
             for (int i = 0; i < j; i++) {
                 if (arr[i] > arr[i + 1]) {
