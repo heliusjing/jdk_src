@@ -18,7 +18,7 @@ public class MergeSort {
     }
 
     private static void mergeSort(int[] nums, int[] temp, int left, int right) {
-        //安全性校验
+        //安全性校验,也是递归头。
         if(left < right) {
             //从中间将数组分成两半
             int mid = (left + right) >> 1;
