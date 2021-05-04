@@ -7,16 +7,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="01-collections" />
-        <module name="10-HuToolTest" />
         <module name="08-design-pattern" />
-        <module name="09-jvm" />
-        <module name="06-Synchronized" />
-        <module name="02-concurrency" />
         <module name="05-base-api" />
+        <module name="02-concurrency" />
+        <module name="entrypt-decrypt" />
+        <module name="01-collections" />
+        <module name="06-Synchronized" />
+        <module name="11-htmlunit" />
         <module name="07-io" />
-        <module name="04-Algorithms" />
         <module name="03-jvmDemo" />
+        <module name="10-HuToolTest" />
+        <module name="09-jvm" />
+        <module name="04-Algorithms" />
+        <module name="12-websocket" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
@@ -30,6 +33,9 @@
       <module name="08-design-pattern" target="1.8" />
       <module name="09-jvm" target="1.8" />
       <module name="10-HuToolTest" target="1.8" />
+      <module name="11-htmlunit" target="1.8" />
+      <module name="12-websocket" target="1.8" />
+      <module name="entrypt-decrypt" target="1.8" />
       <module name="jdk_src" target="1.8" />
     </bytecodeTargetLevel>
   </component>

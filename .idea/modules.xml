@@ -12,6 +12,9 @@
       <module fileurl="file://$PROJECT_DIR$/08-design-pattern/08-design-pattern.iml" filepath="$PROJECT_DIR$/08-design-pattern/08-design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-jvm/09-jvm.iml" filepath="$PROJECT_DIR$/09-jvm/09-jvm.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-HuToolTest/10-HuToolTest.iml" filepath="$PROJECT_DIR$/10-HuToolTest/10-HuToolTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-htmlunit/11-htmlunit.iml" filepath="$PROJECT_DIR$/11-htmlunit/11-htmlunit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-websocket/12-websocket.iml" filepath="$PROJECT_DIR$/12-websocket/12-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/entrypt-decrypt/entrypt-decrypt.iml" filepath="$PROJECT_DIR$/entrypt-decrypt/entrypt-decrypt.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdk_src.iml" filepath="$PROJECT_DIR$/jdk_src.iml" />
     </modules>
   </component>
