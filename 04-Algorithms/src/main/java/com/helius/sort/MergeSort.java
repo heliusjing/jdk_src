@@ -7,7 +7,7 @@ import java.util.Arrays;
  * 分治法
  * mergeSort(m->n) = merge(mergeSort(m->k),mergeSort(k+1->n));
  * @Author jcf
- * @Create 2020-02-13-19:43
+ * @Create 2020-04-13-19:43
  */
 public class MergeSort {
     public static void mergeSort(int[] nums) {
